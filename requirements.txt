@@ -1,0 +1,4 @@
+# CodeAndFun Multi-Agent Gateway
+# Copyright (c) 2026 CodeAndFun. All Rights Reserved.
+
+streamlit>=1.32.0
